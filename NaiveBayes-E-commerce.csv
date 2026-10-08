@@ -1,0 +1,16 @@
+﻿Categoria do Produto;Valor do Produto;Avaliações;Frequência de Compra;Comprou? (Sim/Não)
+Eletrônicos;Alto;Positiva;Alta;Sim
+Livros;Baixo;Positiva;Média;Sim
+Roupas;Médio;Negativa;Baixa;Não
+Eletrônicos;Médio;Positiva;Alta;Sim
+Livros;Baixo;Negativa;Baixa;Não
+Roupas;Alto;Positiva;Média;Sim
+Eletrônicos;Baixo;Negativa;Baixa;Não
+Livros;Médio;Positiva;Alta;Sim
+Roupas;Baixo;Negativa;Média;Não
+Eletrônicos;Médio;Positiva;Alta;Não
+Livros;Alto;Positiva;Alta;Sim
+Roupas;Médio;Negativa;Baixa;Não
+Eletrônicos;Baixo;Negativa;Média;Não
+Livros;Médio;Positiva;Alta;Sim
+Roupas;Alto;Positiva;Alta;Sim
